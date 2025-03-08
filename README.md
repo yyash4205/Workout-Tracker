@@ -41,7 +41,7 @@ Android Studio (latest version recommended)
 Basic knowledge of Java and Android development
 Installation:
 
-Clone this repository: git clone https://github.com/kkushagrag/Workout-Tracker.git
+Clone this repository: git clone https://github.com/yyash4205/Workout-Tracker.git
 Open the project in Android Studio.
 Dependencies:
 
